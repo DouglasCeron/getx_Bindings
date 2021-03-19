@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
               ),
               RaisedButton(
                 child: Text(
-                  'HOME',
+                  'casa',
 
                 ),
                 onPressed: () {
